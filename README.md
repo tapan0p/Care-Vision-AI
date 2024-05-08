@@ -11,7 +11,12 @@ offering rapid, accurate assessments. Additionally, the project conducts a compr
 cancer, brain tumor, pneumonia, and lung cancer. Methodologies, datasets, model architectures,
 and evaluation metrics are explored, with model performance analysis and reflections on implications and future research directions concluding the study. Care Vision AI endeavors to transform
 disease diagnosis, improving patient outcomes and advancing healthcare technology.
-
+## Contributors :
+Tapan Mahata
+Diganta Diasi
+Tarun Kumar Rajput
+Major Vaibhab Mishra
+Anjali Jaiswal
 
 ## Home page
 ![home page](Screenshorts/Screenshot%202024-05-08%20232818.png)
