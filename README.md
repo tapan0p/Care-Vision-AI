@@ -13,3 +13,15 @@ and evaluation metrics are explored, with model performance analysis and reflect
 disease diagnosis, improving patient outcomes and advancing healthcare technology.
 
 
+## Home page
+![home page](Screenshorts/Screenshot%202024-05-08%20232818.png)
+![home page](Screenshorts/Screenshot%202024-05-08%20232846.png)
+
+## Upload image and select a diagnosis type
+![upload image](Screenshorts/Screenshot%202024-05-08%20232959.png)
+## Result
+![result](Screenshorts/Screenshot%202024-05-08%20233025.png)
+
+
+
+
