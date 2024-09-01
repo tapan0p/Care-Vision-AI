@@ -15,7 +15,7 @@ disease diagnosis, improving patient outcomes and advancing healthcare technolog
 Tapan Mahata  
 Diganta Diasi  
 Tarun Kumar Rajput  
-major vaibhav Misra
+major vaibhav Misra <br>
 Anjali Jaiswal  
 
 ## Home page
